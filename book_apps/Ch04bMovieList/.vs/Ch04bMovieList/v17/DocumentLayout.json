@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camer\\Desktop\\ASP.Net\\aspnet_core_mvc\\book_apps\\Ch04bMovieList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42F164-48DA-477E-877D-A18316FC3230}|MovieList\\MovieList.csproj|c:\\users\\camer\\desktop\\asp.net\\aspnet_core_mvc\\book_apps\\ch04bmovielist\\movielist\\movielist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A42F164-48DA-477E-877D-A18316FC3230}|MovieList\\MovieList.csproj|solutionrelative:movielist\\movielist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 142,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieList.csproj",
+              "DocumentMoniker": "C:\\Users\\camer\\Desktop\\ASP.Net\\aspnet_core_mvc\\book_apps\\Ch04bMovieList\\MovieList\\MovieList.csproj",
+              "RelativeDocumentMoniker": "MovieList\\MovieList.csproj",
+              "ToolTip": "C:\\Users\\camer\\Desktop\\ASP.Net\\aspnet_core_mvc\\book_apps\\Ch04bMovieList\\MovieList\\MovieList.csproj",
+              "RelativeToolTip": "MovieList\\MovieList.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T01:44:57.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 142,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
