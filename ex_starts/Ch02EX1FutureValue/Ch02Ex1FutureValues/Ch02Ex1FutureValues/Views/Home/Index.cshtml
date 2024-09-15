@@ -1,0 +1,39 @@
+﻿@model FutureValueModel
+@{
+    ViewData["Title"] = "Future Value Calculator";
+}
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<!DOCTYPE html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Home Page</title>
+    </head>
+    <body>
+        <h1>Future Value Calculator</h1>
+        <form asp-action="Index" method="post">
+        <div asp-validation-summary="All"></div>
+        <div>
+            <label asp-for="MonthlyInvestment">MonthlyI Investment:</label>
+            <input asp-for="MonthlyInvestment" />
+        </div>
+        <div>
+            <label asp-for="YearlyInterestRate">Yearly Interest Rate:</label>
+            <input asp-for="YearlyInterestRate" />
+        </div>
+        <div>
+            <label asp-for="Years">Number of Years:</label>
+            <input asp-for="Years" />
+        </div>
+        <div>
+            <label>Future Value:</label>
+            <input value="@ViewBag.FV.ToString("C2")" readonly />
+        </div>
+        <button type="submit">Calculate</button>
+        <a asp-action="Index">Clear</a>
+        <p>Customer Name: @ViewBag.Name</p>
+        <p>Future Value: @ViewBag.FV.ToString("C2")</p>
+        </form>
+    </body>
+</html>

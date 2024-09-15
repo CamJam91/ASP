@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ch02Ex1FutureValues.props" />
+</Project>

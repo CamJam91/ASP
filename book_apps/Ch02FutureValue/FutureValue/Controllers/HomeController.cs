@@ -9,7 +9,8 @@ namespace FutureValue.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            ViewBag.FV = 0;
+            ViewBag.Name = "Mary";
+            ViewBag.FV = 99999.99;
             return View();
         }
 

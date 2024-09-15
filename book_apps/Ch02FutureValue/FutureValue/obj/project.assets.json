@@ -8962,11 +8962,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camer\\Desktop\\ASP.Net\\aspnet_core_mvc\\book_apps\\Ch02FutureValue\\FutureValue\\FutureValue.csproj",
+      "projectUniqueName": "C:\\Users\\camer\\Documents\\ASPClass\\ASP\\book_apps\\Ch02FutureValue\\FutureValue\\FutureValue.csproj",
       "projectName": "FutureValue",
-      "projectPath": "C:\\Users\\camer\\Desktop\\ASP.Net\\aspnet_core_mvc\\book_apps\\Ch02FutureValue\\FutureValue\\FutureValue.csproj",
+      "projectPath": "C:\\Users\\camer\\Documents\\ASPClass\\ASP\\book_apps\\Ch02FutureValue\\FutureValue\\FutureValue.csproj",
       "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camer\\Desktop\\ASP.Net\\aspnet_core_mvc\\book_apps\\Ch02FutureValue\\FutureValue\\obj\\",
+      "outputPath": "C:\\Users\\camer\\Documents\\ASPClass\\ASP\\book_apps\\Ch02FutureValue\\FutureValue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9017,6 +9017,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.31, 6.0.31]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.31, 6.0.31]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.31, 6.0.31]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.31, 6.0.31]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -9025,7 +9043,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
