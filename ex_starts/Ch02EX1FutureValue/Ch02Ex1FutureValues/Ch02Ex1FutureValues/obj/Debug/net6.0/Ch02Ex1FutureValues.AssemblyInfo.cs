@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ch02Ex1FutureValues")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ada125f8e51e86366c4987ba679ed402a6587b9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+471be3b9e7ca40c8089977c71df86d541ec677b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ch02Ex1FutureValues")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ch02Ex1FutureValues")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

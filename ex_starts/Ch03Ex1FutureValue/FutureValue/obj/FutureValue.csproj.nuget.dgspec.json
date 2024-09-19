@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camer\\Documents\\ASPClass\\ASP\\ex_starts\\Ch03Ex1FutureValue\\FutureValue\\FutureValue.csproj": {}
+    "C:\\Users\\camer\\OneDrive\\Desktop\\ASPClass\\ASP\\ex_starts\\Ch03Ex1FutureValue\\FutureValue\\FutureValue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camer\\Documents\\ASPClass\\ASP\\ex_starts\\Ch03Ex1FutureValue\\FutureValue\\FutureValue.csproj": {
+    "C:\\Users\\camer\\OneDrive\\Desktop\\ASPClass\\ASP\\ex_starts\\Ch03Ex1FutureValue\\FutureValue\\FutureValue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camer\\Documents\\ASPClass\\ASP\\ex_starts\\Ch03Ex1FutureValue\\FutureValue\\FutureValue.csproj",
+        "projectUniqueName": "C:\\Users\\camer\\OneDrive\\Desktop\\ASPClass\\ASP\\ex_starts\\Ch03Ex1FutureValue\\FutureValue\\FutureValue.csproj",
         "projectName": "FutureValue",
-        "projectPath": "C:\\Users\\camer\\Documents\\ASPClass\\ASP\\ex_starts\\Ch03Ex1FutureValue\\FutureValue\\FutureValue.csproj",
+        "projectPath": "C:\\Users\\camer\\OneDrive\\Desktop\\ASPClass\\ASP\\ex_starts\\Ch03Ex1FutureValue\\FutureValue\\FutureValue.csproj",
         "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camer\\Documents\\ASPClass\\ASP\\ex_starts\\Ch03Ex1FutureValue\\FutureValue\\obj\\",
+        "outputPath": "C:\\Users\\camer\\OneDrive\\Desktop\\ASPClass\\ASP\\ex_starts\\Ch03Ex1FutureValue\\FutureValue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config",

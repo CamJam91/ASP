@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camer\\OneDrive\\Desktop\\ASPClass\\ASP\\Ch03Ex1FutureValue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC957E96-5BE6-4FAA-BF47-5CAD6ADA019F}|FutureValue\\FutureValue.csproj|c:\\users\\camer\\onedrive\\desktop\\aspclass\\asp\\ch03ex1futurevalue\\futurevalue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC957E96-5BE6-4FAA-BF47-5CAD6ADA019F}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC957E96-5BE6-4FAA-BF47-5CAD6ADA019F}|FutureValue\\FutureValue.csproj|c:\\users\\camer\\onedrive\\desktop\\aspclass\\asp\\ch03ex1futurevalue\\futurevalue\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC957E96-5BE6-4FAA-BF47-5CAD6ADA019F}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC957E96-5BE6-4FAA-BF47-5CAD6ADA019F}|FutureValue\\FutureValue.csproj|c:\\users\\camer\\onedrive\\desktop\\aspclass\\asp\\ch03ex1futurevalue\\futurevalue\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC957E96-5BE6-4FAA-BF47-5CAD6ADA019F}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\camer\\OneDrive\\Desktop\\ASPClass\\ASP\\Ch03Ex1FutureValue\\FutureValue\\libman.json",
+              "RelativeDocumentMoniker": "FutureValue\\libman.json",
+              "ToolTip": "C:\\Users\\camer\\OneDrive\\Desktop\\ASPClass\\ASP\\Ch03Ex1FutureValue\\FutureValue\\libman.json",
+              "RelativeToolTip": "FutureValue\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T17:44:07.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\camer\\OneDrive\\Desktop\\ASPClass\\ASP\\Ch03Ex1FutureValue\\FutureValue\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FutureValue\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\camer\\OneDrive\\Desktop\\ASPClass\\ASP\\Ch03Ex1FutureValue\\FutureValue\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FutureValue\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T17:08:57.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\camer\\OneDrive\\Desktop\\ASPClass\\ASP\\Ch03Ex1FutureValue\\FutureValue\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "FutureValue\\Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\camer\\OneDrive\\Desktop\\ASPClass\\ASP\\Ch03Ex1FutureValue\\FutureValue\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "FutureValue\\Views\\Home\\index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T17:08:15.491Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
